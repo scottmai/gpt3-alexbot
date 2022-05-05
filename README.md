@@ -1,2 +1,3 @@
-# gpt3-jabebot
- Chatbot app
+# gpt3-alexbot
+
+Chatbot app
